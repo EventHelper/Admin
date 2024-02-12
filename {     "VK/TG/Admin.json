@@ -9,3 +9,45 @@
      nick = "Santa_Klown", admLVL = "6"
    }
 }
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Christopher_Osborne", admLVL = "5"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Alex_Farrell", admLVL = "2"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Antony_Dyson", admLVL = "2"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Karl_Manchester", admLVL = "2"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Tao_Kakagawa", admLVL = "1"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Samuel_Goldie", admLVL = "4"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Enrico_Douglas", admLVL = "3"
+   }
+}
