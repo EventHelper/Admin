@@ -30,12 +30,6 @@
 
 { 
    "VK/TG/DS USER" : {
-     nick = "Karl_Manchester", admLVL = "2"
-   }
-}
-
-{ 
-   "VK/TG/DS USER" : {
      nick = "Tao_Kakagawa", admLVL = "1"
    }
 }
