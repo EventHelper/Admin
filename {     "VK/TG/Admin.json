@@ -81,3 +81,45 @@
      nick = "Ralph_Martiness", admLVL = "5"
    }
 }
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Thomas_Blackwood", admLVL = "3"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Josef_Gotishan", admLVL = "1"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Richard_Adriano", admLVL = "3"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Winston_Ward", admLVL = "1"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Richard_Northwood", admLVL = "4"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Lin_Douglas", admLVL = "1"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Deveron_Ellinghton", admLVL = "2"
+   }
+}
