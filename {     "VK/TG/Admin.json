@@ -147,3 +147,21 @@
      nick = "Lin_Douglas", admLVL = "1"
    }
 }
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Doggie_Hatson", admLVL = "1"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Trendell_Hawke", admLVL = "2"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "John_Right", admLVL = "3"
+   }
+}
