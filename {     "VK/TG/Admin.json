@@ -165,3 +165,9 @@
      nick = "John_Right", admLVL = "3"
    }
 }
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Carlos_Sowell", admLVL = "1"
+   }
+}
