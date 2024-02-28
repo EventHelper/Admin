@@ -177,3 +177,9 @@
      nick = "Marik_Kastell", admLVL = "2"
    }
 }
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Charlie_Robertson", admLVL = "2"
+   }
+}
