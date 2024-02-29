@@ -188,3 +188,9 @@
      nick = "Charlie_Robertson", admLVL = "2"
    }
 }
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Timotejs_Licis", admLVL = "3"
+   }
+}
