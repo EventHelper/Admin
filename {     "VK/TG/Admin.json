@@ -77,12 +77,6 @@
 
 { 
    "VK/TG/DS USER" : {
-     nick = "Shon_Maylay", admLVL = "3"
-   }
-}
-
-{ 
-   "VK/TG/DS USER" : {
      nick = "Ralph_Martiness", admLVL = "5"
    }
 }
