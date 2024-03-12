@@ -12,6 +12,12 @@
 
 { 
    "VK/TG/DS USER" : {
+     nick = "Shon_Maylay", admLVL = "3"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
      nick = "Karl_Manchester", admLVL = "2"
    }
 }
