@@ -200,3 +200,27 @@
      nick = "Carver_Hawke", admLVL = "2"
    }
 }
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Salo_Melgoza", admLVL = "1"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Lester_McBride", admLVL = "1"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Barleen_Funcher", admLVL = "1"
+   }
+}
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Lynn_Taylor", admLVL = "1"
+   }
+}
