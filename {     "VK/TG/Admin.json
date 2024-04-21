@@ -143,12 +143,6 @@
 
 { 
    "VK/TG/DS USER" : {
-     nick = "Doggie_Hatson", admLVL = "1"
-   }
-}
-
-{ 
-   "VK/TG/DS USER" : {
      nick = "John_Right", admLVL = "3"
    }
 }
