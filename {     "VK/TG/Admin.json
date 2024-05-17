@@ -226,3 +226,9 @@
      nick = "Jonathan_Morlingwood", admLVL = "2"
    }
 }
+
+{ 
+   "VK/TG/DS USER" : {
+     nick = "Stuart_Furri", admLVL = "1"
+   }
+}
